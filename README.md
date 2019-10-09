@@ -1,4 +1,7 @@
 # 野猫VIP帐号 - WildcatVipAccount
+![image](https://img.shields.io/badge/build-passing-brightgreen)
+![image](https://img.shields.io/badge/license-MIT-blue)
+![image](https://img.shields.io/badge/stars-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen)
 
 ## 油猴Tampermonkey/暴力猴Violentmonkey版本（适用于PC网页）：
 https://greasyfork.org/zh-CN/scripts/390890-vip-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E4%BC%9A%E5%91%98-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98vip-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98svip%E5%85%8D%E8%B4%B9%E8%8E%B7%E5%8F%96-%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0-%E6%94%BE%E5%BF%83%E4%BD%BF%E7%94%A8
