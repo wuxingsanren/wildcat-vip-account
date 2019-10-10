@@ -11,3 +11,6 @@ https://greasyfork.org/zh-CN/scripts/390890-svip-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%
 
 ## 反馈联系：
 wuxingsanren2008#gmail.com（#改为@）
+
+## License
+MIT
