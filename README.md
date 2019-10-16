@@ -8,7 +8,6 @@ https://greasyfork.org/zh-CN/scripts/390890-svip-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%
 
 ## 微信小程序版本（用小程序版本更便捷，记得收藏到“我的小程序”AND“添加到桌面”，墙裂推荐！）：
 * <font color=yellow>野猫687（理解成“野猫了不起”，1秒记住！！）</font>
-<br>
 ![image](https://raw.githubusercontent.com/wuxingsanren/wildcat-vip-account/master/images/wxapp_qrcode.png)
 
 ## 反馈联系：
