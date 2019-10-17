@@ -1,4 +1,5 @@
 # 野猫VIP帐号 - WildcatVipAccount
+## 3秒记住野猫短网址，从此不迷路 —— [git.io/yemao](https://git.io/yemao) 或者 [git.io/52vip](https://git.io/52vip)
 ![image](https://img.shields.io/badge/build-passing-brightgreen)
 ![image](https://img.shields.io/badge/license-MIT-blue)
 ![image](https://img.shields.io/badge/stars-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen)
