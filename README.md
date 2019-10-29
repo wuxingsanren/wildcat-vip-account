@@ -9,7 +9,7 @@ https://greasyfork.org/zh-CN/scripts/391713-svip-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%
 
 ## 微信小程序版本（用小程序版本更便捷，记得收藏到“我的小程序”AND“添加到桌面”，墙裂推荐！）：
 ### `火雕520（理解成“火雕我爱你”，1秒记住！！）`
-![image](https://raw.githubusercontent.com/wuxingsanren/wildcat-vip-account/master/images/wxapp_qrcode_huodiao.png)
+![image](https://greasyfork.org/system/screenshots/screenshots/000/017/722/original/wxapp_qrcode_huodiao.png)
 
 ## 反馈联系：
 wuxingsanren2008#gmail.com（#改为@）
