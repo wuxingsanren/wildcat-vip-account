@@ -10,15 +10,15 @@ https://greasyfork.org/zh-CN/scripts/392245-svip-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%
 ## 由于小程序版本已挂，现提供微信公众号，在菜单“真香”内转换为拼音，你懂的：
 ![image](https://cdn.dgsldz.com/product/wildcat/images/qrcode/wemp_wuxingsanren.jpg)
 
-菜单谐音  | 打卡类型  | 对应VIP
+谐音菜单  | 打卡类型  | 对应VIP
  ---- | -----  | -----  
- 王盼  | 看书  | 百度网盘SVIP超级会员
- 寻累  | 听音乐  | 迅雷SVIP超级会员
- 有枯  | 看电影  | 优酷VIP会员
- 臂力臂力  | 弹钢琴  | 哔哩哔哩VIP大会员
- 闻苦  | 健身  | 百度文库VIP会员
- 评过ID  | 跑步  | Apple ID（海外）
- 田燕茶  | 学英语  | 天眼查VIP会员
+ `王盼`  | 看书  | 百度网盘SVIP超级会员
+ `寻累`  | 听音乐  | 迅雷SVIP超级会员
+ `有枯`  | 看电影  | 优酷VIP会员
+ `臂力臂力`  | 弹钢琴  | 哔哩哔哩VIP大会员
+ `闻苦`  | 健身  | 百度文库VIP会员
+ `评过ID`  | 跑步  | Apple ID（海外）
+ `田燕茶`  | 学英语  | 天眼查VIP会员
 
 ## 反馈联系：
 wuxingsanren2008#gmail.com（#改为@）
