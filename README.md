@@ -20,7 +20,8 @@ https://greasyfork.org/zh-CN/scripts/392245-svip-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%
  `评过ID`  | 跑步  | Apple ID（海外）
  `田燕茶`  | 学英语  | 天眼查VIP会员
 
-## 赞助散人，你的帮助我会铭记：
+## 赞助散人：
+支持散人，让此项目能长久地做下去，我会记录你的功德！  
 ![image](https://raw.githubusercontent.com/wuxingsanren/wildcat-vip-account/master/images/zanzhu_qrcode.png)
 
 ## 反馈联系：
