@@ -5,7 +5,7 @@
 ## 1秒记住野猫网址，从此不迷路：永久域名：[yemao.vip](http://yemao.vip)；备用短网址：[git.io/yemao](https://git.io/yemao) / [git.io/52vip](https://git.io/52vip)
 
 ## 油猴Tampermonkey/暴力猴Violentmonkey版本（适用于百度PC网页）：
-https://greasyfork.org/zh-CN/scripts/392245-svip-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E4%BC%9A%E5%91%98-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98vip-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98svip%E5%85%8D%E8%B4%B9%E8%8E%B7%E5%8F%96-%E4%BB%A3%E6%9B%BFidm-xdown-pandownload%E7%BD%91%E9%A1%B5%E7%89%88-%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0-%E6%94%BE%E5%BF%83%E4%BD%BF%E7%94%A8
+https://greasyfork.org/zh-CN/scripts/392567-svip-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E4%BC%9A%E5%91%98-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98vip-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98svip%E5%85%8D%E8%B4%B9%E8%8E%B7%E5%8F%96-%E4%BB%A3%E6%9B%BFidm-xdown-pandownload%E7%BD%91%E9%A1%B5%E7%89%88-%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0-%E6%94%BE%E5%BF%83%E4%BD%BF%E7%94%A8
 
 ## 由于小程序版本已挂，现提供微信公众号，在菜单“真香”及“真香贰”，具体参见以下表格 ↓↓↓
 ![image](https://cdn.dgsldz.com/product/wildcat/images/qrcode/wemp_wuxingsanren.jpg)
