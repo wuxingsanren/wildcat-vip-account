@@ -1,10 +1,10 @@
 # 野猫VIP - YEMAO.VIP    
-[各大网站VIP帐号](#Ⅰ-各大网站VIP帐号) | [全网视频VIP解析](#Ⅱ-全网视频VIP解析) | [百度文库VIP下载](#Ⅲ-百度文库VIP下载) | [赞助与支持](#Ⅳ-赞助散人)      
+[各大网站VIP帐号](#Ⅰ-各大网站VIP帐号) | [全网视频VIP解析](#Ⅱ-全网视频VIP解析) | [百度文库VIP下载](#Ⅲ-百度文库VIP下载) | [赞助与支持](#Ⅳ-赞助散人) | [帮助](#Ⅴ-帮助)      
 ![image](https://img.shields.io/badge/build-passing-brightgreen)
 ![image](https://img.shields.io/badge/license-MIT-blue)
 ![image](https://img.shields.io/badge/stars-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen)
 ___
-### 1秒记住野猫网址，从此不迷路：永久域名：[yemao.vip](http://yemao.vip)；备用短网址：[git.io/yemao](https://git.io/yemao) / [git.io/52vip](https://git.io/52vip)
+### 1秒记住野猫网址，从此不迷路：永久域名：[yemao.vip](http://yemao.vip)；备用短网址：[git.io/yemao](https://git.io/yemao) 或 [git.io/52vip](https://git.io/52vip)
 
 ## Ⅰ 各大网站VIP帐号
 #### 注：由于小程序版本已挂，现提供微信公众号，在菜单“真香”及“真香贰”，具体参见以下表格 ↓↓↓
@@ -38,10 +38,13 @@ http://avip.fun/doc
 支持散人，让此项目能长久地做下去，我会铭记你的功德！  
 ![image](https://raw.githubusercontent.com/wuxingsanren/wildcat-vip-account/master/images/zanzhu_qrcode.png)
 
-## Ⅴ 反馈联系：
+## Ⅴ 帮助：
+[《谷歌Chrome浏览器怎样安装Tampermonkey插件？》](https://jingyan.baidu.com/article/d169e186f1c3f1036611d8f8.html)
+
+## Ⅵ 反馈联系：
 wuxingsanren2008#gmail.com（#改为@）
 
-## Ⅵ License
+## Ⅶ License
 MIT
 
 Copyright (c) 2019 五行散人
