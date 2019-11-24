@@ -1,9 +1,15 @@
+<p align="center">
+  <a href="http://yemao.vip">
+    <img src="http://cdn.dgsldz.com/product/wildcat/images/logo_v1.png" alt="野猫VIP" width="688px" style="max-width:100%;"/>
+  </a>
+</p>
+
 # 野猫VIP - YEMAO.VIP
 [各大网站VIP帐号](#Ⅰ-各大网站VIP帐号) | [全网视频VIP解析](#Ⅱ-全网视频VIP解析) | [百度文库VIP下载](#Ⅲ-百度文库VIP下载) | [全网音乐MP3免费听及下载](#Ⅳ-全网音乐mp3免费听及下载) | [赞助与支持](#Ⅴ-赞助散人) | [帮助](#Ⅵ-帮助)  
+___
 ![image](https://img.shields.io/badge/build-passing-brightgreen)
 ![image](https://img.shields.io/badge/license-MIT-blue)
 ![image](https://img.shields.io/badge/stars-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen)
-___
 ### 1秒记住野猫网址，从此不迷路：永久域名：[yemao.vip](http://yemao.vip)；备用短网址：[git.io/yemao](https://git.io/yemao) 或 [git.io/52vip](https://git.io/52vip)
 
 ## Ⅰ 各大网站VIP帐号
