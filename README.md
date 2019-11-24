@@ -8,10 +8,10 @@
 ## 野猫VIP - YEMAO.VIP  
 
 [各大网站VIP帐号](#Ⅰ-各大网站VIP帐号) | [全网视频VIP解析](#Ⅱ-全网视频VIP解析) | [百度文库VIP下载](#Ⅲ-百度文库VIP下载) | [全网音乐MP3免费听及下载](#Ⅳ-全网音乐mp3免费听及下载) | [赞助与支持](#Ⅴ-赞助散人) | [帮助](#Ⅵ-帮助)  
+***1秒记住野猫网址，从此不迷路：永久域名：[yemao.vip](http://yemao.vip)；备用短网址：[git.io/yemao](https://git.io/yemao) 或 [git.io/52vip](https://git.io/52vip)***  
 ![image](https://img.shields.io/badge/build-passing-brightgreen)
 ![image](https://img.shields.io/badge/license-MIT-blue)
 ![image](https://img.shields.io/badge/stars-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen)  
-***1秒记住野猫网址，从此不迷路：永久域名：[yemao.vip](http://yemao.vip)；备用短网址：[git.io/yemao](https://git.io/yemao) 或 [git.io/52vip](https://git.io/52vip)***  
 
 ### Ⅰ 各大网站VIP帐号
 #### 注：由于小程序版本已挂，现提供微信公众号，在菜单“真香”及“真香贰”，具体参见以下表格 ↓↓↓
@@ -37,7 +37,7 @@ http://avip.fun/tv?utm_source=github
 
 ### Ⅲ 百度文库VIP下载
 #### 注：2019.11.20已经恢复  
-~~由于遭受攻击（影响到某些付费下载文档站的利益），目前维护中，可以到公众号获取“备用通道+帐密”的方式进行下载，不受影响~~
+~~由于遭受攻击（影响到某些付费下载文档站的利益），目前维护中，可以到公众号获取“备用通道+帐密”的方式进行下载，不受影响~~  
 http://avip.fun/doc?utm_source=github
 > #### 油猴Tampermonkey/暴力猴Violentmonkey脚本：
 > https://greasyfork.org/zh-CN/scripts/391826-%E7%9C%9F%E9%A6%99-%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93vip-%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%E6%96%87%E6%A1%A3%E5%85%8D%E8%B4%B9%E4%B8%8B%E8%BD%BD-%E8%B1%86%E4%B8%81%E7%BD%91vip-%E8%B1%86%E4%B8%81%E7%BD%91%E6%96%87%E6%A1%A3%E4%B8%8B%E8%BD%BD-%E6%9E%81%E9%80%9F%E7%A7%92%E7%A0%B4%E5%8E%9F%E6%96%87%E6%A1%A3-%E8%BD%AC%E6%8D%A2%E6%8F%90%E5%8F%96%E6%96%87%E6%A1%A3%E5%A2%9E%E5%BC%BA%E7%89%88-%E6%96%87%E6%A1%A3%E6%AF%8F%E9%A1%B5%E5%86%85%E5%AE%B9%E9%83%BD%E5%8F%AF%E8%87%AA%E7%94%B1%E5%A4%8D%E5%88%B6-%E6%95%B4%E9%A1%B5%E5%8F%AF%E5%A4%8D%E5%88%B6%E4%B8%8B%E6%9D%A5-%E7%A7%BB%E9%99%A4%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%E5%B9%BF%E5%91%8A-%E8%A7%A3%E9%99%A4%E5%A4%A7%E9%83%A8%E5%88%86%E7%BD%91%E7%AB%99%E5%8F%B3%E9%94%AE%E6%93%8D%E4%BD%9C%E7%AD%89%E9%99%90%E5%88%B6
