@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://yemao.vip">
-    <img src="http://cdn.dgsldz.com/product/wildcat/images/logo_v1.png" alt="野猫VIP" width="688px" style="max-width:100%;" />
+    <img src="http://cdn.dgsldz.com/product/wildcat/images/logo_v2.png" alt="野猫VIP" width="688px" style="max-width:100%;" />
   </a>
 </p>
 
