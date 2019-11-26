@@ -19,7 +19,7 @@
 #### 注：由于小程序版本已挂，现提供微信公众号，在菜单“真香”及“真香贰”，具体参见以下表格 ↓↓↓
 ![image](https://cdn.dgsldz.com/product/wildcat/images/qrcode/wemp_wuxingsanren.jpg)
 
-谐音菜单  | 打卡类型  | 对应VIP
+谐音菜单/名称  | 打卡类型  | 对应VIP
  ---- | -----  | -----  
  `王盼`  | 看书  | 百度网盘SVIP超级会员
  `寻累`  | 听音乐  | 迅雷SVIP超级会员
@@ -27,6 +27,9 @@
  `臂力臂力`  | 弹钢琴  | 哔哩哔哩VIP大会员
  `闻苦`  | 健身  | 百度文库VIP会员
  `评过ID`  | 跑步  | Apple ID（海外）
+ `土酷`  | *（详见具体图库VIP）*  | 图库素材VIP
+ `社土`  | 摄影  | 摄图网VIP
+ `苞土`  | 画画  | 包图网VIP
  `田燕茶`  | 学英语  | 天眼查VIP会员
 > #### 油猴Tampermonkey/暴力猴Violentmonkey脚本：
 > https://greasyfork.org/zh-CN/scripts/392567-svip-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E4%BC%9A%E5%91%98-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98vip-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98svip%E5%85%8D%E8%B4%B9%E8%8E%B7%E5%8F%96-%E4%BB%A3%E6%9B%BFidm-xdown-pandownload%E7%BD%91%E9%A1%B5%E7%89%88-%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0-%E6%94%BE%E5%BF%83%E4%BD%BF%E7%94%A8
