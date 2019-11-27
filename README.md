@@ -61,7 +61,7 @@ http://avip.fun/music?utm_source=github
 
 ### Ⅵ 赞助散人：
 支持散人，让此项目能长久地做下去，我会铭记你的功德！  
-![image](https://raw.githubusercontent.com/wuxingsanren/wildcat-vip-account/master/images/zanzhu_qrcode.png)
+![image](https://cdn.dgsldz.com/product/wildcat/images/zanzhu_qrcode_258x258.png)
 
 ### Ⅶ 帮助：
 [《谷歌Chrome浏览器怎样安装Tampermonkey插件？》](https://jingyan.baidu.com/article/d169e186f1c3f1036611d8f8.html)
