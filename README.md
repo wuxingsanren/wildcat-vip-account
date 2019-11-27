@@ -1,6 +1,6 @@
 <p align="center">
   <a href="javascript:;">
-    <img src="http://cdn.dgsldz.com/product/wildcat/images/logo_v3.png" alt="野猫VIP" width="688px" style="max-width:100%;" />
+    <img src="http://cdn.dgsldz.com/product/wildcat/images/logo_v3.png" alt="野猫VIP" width="588px" style="max-width:100%;" />
   </a>
 </p>
 
