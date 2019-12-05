@@ -51,7 +51,7 @@ http://avip.fun/doc?utm_source=github
 #### 支持的平台：千图网VIP、千库网VIP、包图网VIP、摄图网VIP、昵图网VIP、90设计VIP、觅元素VIP、我图网VIP、稻壳儿VIP、17素材VIP、熊猫办公VIP、92素材VIP、演界网VIP、彼岸图VIP、绘艺素材VIP、图品汇VIP、觅知网VIP、六图网VIP、全图网VIP等，第一个版本暂只支持包图网+摄图网2网通用  
 http://pic.avip.fun?utm_source=github
 > #### 油猴Tampermonkey/暴力猴Violentmonkey脚本：
-> https://greasyfork.org/zh-CN/scripts/392972-20%E7%AB%99%E9%80%9A%E7%94%A8%E5%85%A8%E7%BD%91%E5%9B%BE%E5%BA%93%E7%B4%A0%E6%9D%90vip%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD-%E6%94%AF%E6%8C%81%E5%8D%83%E5%9B%BE%E7%BD%91vip-%E5%8D%83%E5%BA%93%E7%BD%91vip-%E5%8C%85%E5%9B%BE%E7%BD%91vip-%E6%91%84%E5%9B%BE%E7%BD%91vip-%E6%98%B5%E5%9B%BE%E7%BD%91vip-90%E8%AE%BE%E8%AE%A1vip-%E8%A7%85%E5%85%83%E7%B4%A0vip-%E6%88%91%E5%9B%BE%E7%BD%91vip-17%E7%B4%A0%E6%9D%90vip-%E7%A8%BB%E5%A3%B3%E5%84%BFvip-%E5%9B%BE%E5%93%81%E6%B1%87vip%E7%AD%89
+> https://greasyfork.org/zh-CN/scripts/393333-20%E7%AB%99%E9%80%9A%E7%94%A8%E5%85%A8%E7%BD%91%E5%9B%BE%E5%BA%93%E7%B4%A0%E6%9D%90vip%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD-%E6%94%AF%E6%8C%81%E5%8D%83%E5%9B%BE%E7%BD%91vip-%E5%8D%83%E5%BA%93%E7%BD%91vip-%E5%8C%85%E5%9B%BE%E7%BD%91vip-%E6%91%84%E5%9B%BE%E7%BD%91vip-%E6%98%B5%E5%9B%BE%E7%BD%91vip-90%E8%AE%BE%E8%AE%A1vip-%E8%A7%85%E5%85%83%E7%B4%A0vip-%E6%88%91%E5%9B%BE%E7%BD%91vip-17%E7%B4%A0%E6%9D%90vip-%E7%A8%BB%E5%A3%B3%E5%84%BFvip-%E5%9B%BE%E5%93%81%E6%B1%87vip%E7%AD%89
 
 ### Ⅴ 全网音乐MP3免费听及下载
 #### 支持的平台：网易云音乐，QQ音乐，酷狗音乐，酷我音乐，虾米音乐，百度音乐，蜻蜓FM，荔枝FM，喜马拉雅，一听音乐、咪咕音乐、全民K歌、5sing原创、5sing翻唱等
