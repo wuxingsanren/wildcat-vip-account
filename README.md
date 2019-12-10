@@ -27,11 +27,20 @@
  `臂力臂力`  | 弹钢琴  | 哔哩哔哩VIP大会员
  `闻苦`  | 健身  | 百度文库VIP会员
  `评过ID`  | 跑步  | Apple ID（海外）
- `土酷`  | ★详见具体图库  | 图库素材VIP
+ `土酷`  | ★详见具体图库平台[↓2个]  | 图库素材VIP
  `社土`  | 摄影  | 摄图网VIP
  `苞土`  | 画画  | 包图网VIP
  `田燕茶`  | 学英语  | 天眼查VIP会员
- `学塾轮闻`  | ★详见具体学术论文数据库  | 学术论文VIP会员（即将上线）
+ `学塾轮闻`  | ★详见具体学术论文平台[↓9个]  | 学术论文VIP
+ `织网`  | 喝咖啡-ZW  | 中国知网VIP
+ `望芳`  | 喝咖啡-WF  | 万方数据VIP
+ `围捕`  | 喝咖啡-WP  | 维普资讯VIP
+ `独绣`  | 喝咖啡-DX  | 读秀资源VIP
+ `抄兴`  | 喝咖啡-CX  | 超星数字VIP
+ `郭盐`  | 喝咖啡-GY  | 国研数据VIP
+ `隆元`  | 喝咖啡-LY  | 龙源期刊VIP
+ `波坎`  | 喝咖啡-BK  | 博看杂志VIP
+ `仁达`  | 喝咖啡-RD  | 人大复印VIP
 > #### 油猴Tampermonkey/暴力猴Violentmonkey脚本：
 > https://greasyfork.org/zh-CN/scripts/393460-svip-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E4%BC%9A%E5%91%98-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98vip-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98svip%E5%85%8D%E8%B4%B9%E8%8E%B7%E5%8F%96-%E4%BB%A3%E6%9B%BFidm-xdown-pandownload%E7%BD%91%E9%A1%B5%E7%89%88-%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0-%E6%94%BE%E5%BF%83%E4%BD%BF%E7%94%A8
 
