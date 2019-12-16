@@ -48,32 +48,32 @@
 #### 解析线路稳定，支持即搜即看，非常便捷，建议安装油猴脚本超级方便
 http://avip.fun/tv?utm_source=github
 > #### 油猴Tampermonkey/暴力猴Violentmonkey脚本：
-> https://greasyfork.org/zh-CN/scripts/393747-%E5%A4%AA%E9%A6%99-%E7%88%B1%E5%A5%87%E8%89%BAvip-%E4%BC%98%E9%85%B7vip-%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91vip-%E8%8A%92%E6%9E%9Cvip%E5%85%A8%E7%BD%91%E8%A7%86%E9%A2%91vip-%E4%B8%80%E9%94%AEvip%E8%A7%86%E9%A2%91%E8%A7%A3%E6%9E%90%E5%85%8D%E8%B4%B9%E5%9C%A8%E7%BA%BF%E7%9C%8B-%E4%B8%80%E7%AB%99%E5%BC%8F%E9%9F%B3%E4%B9%90%E6%90%9C%E7%B4%A2%E4%B8%8B%E8%BD%BD-%E7%99%BE%E5%BA%A6%E4%BA%91%E7%A6%BB%E7%BA%BF%E8%B7%B3%E8%BD%AC-%E8%8E%B7%E5%8F%96b%E7%AB%99%E5%B0%81%E9%9D%A2-%E6%B7%98%E5%AE%9D%E4%BA%AC%E4%B8%9C%E5%86%85%E9%83%A8%E4%BC%98%E6%83%A0%E5%88%B8-%E8%A7%A3%E9%99%A4%E5%A4%A7%E9%83%A8%E5%88%86%E7%BD%91%E7%AB%99%E6%93%8D%E4%BD%9C%E9%99%90%E5%88%B6
+> http://cdn.dgsldz.com/product/wildcat/plugins/tampermonkey/video_vip.user.js
 
 ### Ⅲ 百度文库VIP下载
 #### 注：2019.11.20已经恢复  
 ~~由于遭受攻击（影响到某些付费下载文档站的利益），目前维护中，可以到公众号获取“备用通道+帐密”的方式进行下载，不受影响~~  
 http://avip.fun/doc?utm_source=github
 > #### 油猴Tampermonkey/暴力猴Violentmonkey脚本：
-> https://greasyfork.org/zh-CN/scripts/393746-%E7%9C%9F%E9%A6%99-%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93vip-%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%E6%96%87%E6%A1%A3%E5%85%8D%E8%B4%B9%E4%B8%8B%E8%BD%BD-%E8%B1%86%E4%B8%81%E7%BD%91vip-%E8%B1%86%E4%B8%81%E7%BD%91%E6%96%87%E6%A1%A3%E4%B8%8B%E8%BD%BD-%E6%9E%81%E9%80%9F%E7%A7%92%E7%A0%B4%E5%8E%9F%E6%96%87%E6%A1%A3-%E8%BD%AC%E6%8D%A2%E6%8F%90%E5%8F%96%E6%96%87%E6%A1%A3%E5%A2%9E%E5%BC%BA%E7%89%88-%E6%96%87%E6%A1%A3%E6%AF%8F%E9%A1%B5%E5%86%85%E5%AE%B9%E9%83%BD%E5%8F%AF%E8%87%AA%E7%94%B1%E5%A4%8D%E5%88%B6-%E6%95%B4%E9%A1%B5%E5%8F%AF%E5%A4%8D%E5%88%B6%E4%B8%8B%E6%9D%A5-%E7%A7%BB%E9%99%A4%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%E5%B9%BF%E5%91%8A-%E8%A7%A3%E9%99%A4%E5%A4%A7%E9%83%A8%E5%88%86%E7%BD%91%E7%AB%99%E5%8F%B3%E9%94%AE%E6%93%8D%E4%BD%9C%E7%AD%89%E9%99%90%E5%88%B6
+> http://cdn.dgsldz.com/product/wildcat/plugins/tampermonkey/doc_vip.user.js
 
 ### Ⅳ 图库素材VIP下载  
 #### 支持的平台：千图网VIP、千库网VIP、包图网VIP、摄图网VIP、昵图网VIP、90设计VIP、觅元素VIP、我图网VIP、稻壳儿VIP、17素材VIP、熊猫办公VIP、92素材VIP、演界网VIP、彼岸图VIP、绘艺素材VIP、图品汇VIP、觅知网VIP、六图网VIP、全图网VIP等，第一个版本暂只支持包图网+摄图网2网通用  
 http://pic.avip.fun?utm_source=github
 > #### 油猴Tampermonkey/暴力猴Violentmonkey脚本：
-> https://greasyfork.org/zh-CN/scripts/393748-20%E7%AB%99%E9%80%9A%E7%94%A8%E5%85%A8%E7%BD%91%E5%9B%BE%E5%BA%93%E7%B4%A0%E6%9D%90vip%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD-%E6%94%AF%E6%8C%81%E5%8D%83%E5%9B%BE%E7%BD%91vip-%E5%8D%83%E5%BA%93%E7%BD%91vip-%E5%8C%85%E5%9B%BE%E7%BD%91vip-%E6%91%84%E5%9B%BE%E7%BD%91vip-%E6%98%B5%E5%9B%BE%E7%BD%91vip-90%E8%AE%BE%E8%AE%A1vip-%E8%A7%85%E5%85%83%E7%B4%A0vip-%E6%88%91%E5%9B%BE%E7%BD%91vip-17%E7%B4%A0%E6%9D%90vip-%E7%A8%BB%E5%A3%B3%E5%84%BFvip-%E5%9B%BE%E5%93%81%E6%B1%87vip%E7%AD%89
+> http://cdn.dgsldz.com/product/wildcat/plugins/tampermonkey/pic_vip.user.js
 
 ### Ⅴ 学术论文免费下载
 #### 支持的平台：知网、万方、维普、读秀、超星、国研、龙源、人大复印、Sci-Hub、Web of Science、ScienceDirect、ProQuest、ProQuest、ProQuest、ProQuest、IEEE、Wiley、Springerlink、SpringerLink、西伦敦大学uwl、亚东纪念医院femh、英语大全T、PsycNet、莱因哈特大学rei、JSTOR、Taylor & Francis、SAGE、Nature、JSTOR、Emerald、台中荣总vghtc、Taylor & Francis、谷歌学术、高雄医学大学KMU、SAGE、Nature、EBSCOhost、JSTOR、剑桥大学出版社、ResearchGate、三县职业技术学院tctc、普埃布拉自治大学buap、赫瑞瓦特大学hw、新光医院skh、醒吾科技大学hwu、拜勒加应用大学bau、加维兰学院ga、中国医药大学cmu、波特维尔学院por、EBSCOhost、JCR、BookSC、Engineering Village、北大法意、北大法宝、锐思金融、EPS数据平台、知网医学、万方医学、综合医学、Cochrane考克兰、Karger瑞士医学、NEJM新英格兰医学、Embase生物医学、ClinicalKey临床精钥、Embase生物医学、Scopus综合文摘、UpToDate临床顾问、PubMed、SinoMed、英文医学、医知网、BMJ英国医学期刊、NEJM新英格兰医学、JAMA美国医学、Karger瑞士医学、Medline美国医学、OVID综合医学等
 http://avip.fun/paper?utm_source=github
 > #### 油猴Tampermonkey/暴力猴Violentmonkey脚本：
-> https://greasyfork.org/zh-CN/scripts/393749-%E5%A5%A5%E5%88%A9%E7%BB%99-%E5%AD%A6%E4%BD%8D%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87%E4%B8%8B%E8%BD%BD-%E6%96%87%E7%8C%AE%E6%9C%9F%E5%88%8A%E6%8A%A5%E7%BA%B8%E4%BC%9A%E8%AE%AE%E6%9D%82%E5%BF%97%E5%87%BA%E7%89%88%E7%89%A9%E5%B9%B4%E9%89%B4%E6%A3%80%E7%B4%A2%E4%B8%8B%E8%BD%BD-%E5%B7%A5%E5%85%B7%E4%B9%A6%E5%85%8D%E8%B4%B9%E4%B8%8B%E8%BD%BD-%E6%9C%9F%E5%88%8A%E6%A3%80%E7%B4%A2vip-%E5%A4%A7%E5%AD%A6%E8%AE%BA%E6%96%87vip-%E5%8D%9A%E7%A1%95%E5%A3%AB%E4%B8%93%E7%94%A8vip-%E7%9F%A5%E7%BD%91%E4%B8%87%E6%96%B9%E7%BB%B4%E6%99%AE%E8%AF%BB%E7%A7%80%E8%B6%85%E6%98%9F%E5%9B%BD%E7%A0%94%E9%BE%99%E6%BA%90%E7%AD%89vip-%E6%89%93%E7%A0%B4%E6%94%B6%E8%B4%B9%E9%99%90%E5%88%B6-%E6%B0%B8%E4%B9%85%E5%85%8D%E8%B4%B9%E4%B8%8B%E8%BD%BD
+> http://cdn.dgsldz.com/product/wildcat/plugins/tampermonkey/paper_vip.user.js
 
 ### Ⅵ 全网音乐MP3免费听及下载
 #### 支持的平台：网易云音乐、QQ音乐、酷狗音乐、酷我音乐、虾米音乐、百度音乐、蜻蜓FM、荔枝FM、喜马拉雅、一听音乐、咪咕音乐、全民K歌、5sing原创、5sing翻唱等
 http://avip.fun/music?utm_source=github
 > #### 油猴Tampermonkey/暴力猴Violentmonkey脚本：
-> https://greasyfork.org/zh-CN/scripts/393747-%E5%A4%AA%E9%A6%99-%E7%88%B1%E5%A5%87%E8%89%BAvip-%E4%BC%98%E9%85%B7vip-%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91vip-%E8%8A%92%E6%9E%9Cvip%E5%85%A8%E7%BD%91%E8%A7%86%E9%A2%91vip-%E4%B8%80%E9%94%AEvip%E8%A7%86%E9%A2%91%E8%A7%A3%E6%9E%90%E5%85%8D%E8%B4%B9%E5%9C%A8%E7%BA%BF%E7%9C%8B-%E4%B8%80%E7%AB%99%E5%BC%8F%E9%9F%B3%E4%B9%90%E6%90%9C%E7%B4%A2%E4%B8%8B%E8%BD%BD-%E7%99%BE%E5%BA%A6%E4%BA%91%E7%A6%BB%E7%BA%BF%E8%B7%B3%E8%BD%AC-%E8%8E%B7%E5%8F%96b%E7%AB%99%E5%B0%81%E9%9D%A2-%E6%B7%98%E5%AE%9D%E4%BA%AC%E4%B8%9C%E5%86%85%E9%83%A8%E4%BC%98%E6%83%A0%E5%88%B8-%E8%A7%A3%E9%99%A4%E5%A4%A7%E9%83%A8%E5%88%86%E7%BD%91%E7%AB%99%E6%93%8D%E4%BD%9C%E9%99%90%E5%88%B6
+> http://cdn.dgsldz.com/product/wildcat/plugins/tampermonkey/video_vip.user.js
 
 ### Ⅶ 赞助散人：
 支持散人，让此项目能长久地做下去，我会铭记你的功德！  
