@@ -42,7 +42,7 @@
  `波坎`  | 喝咖啡-BK  | 博看杂志VIP
  `仁达`  | 喝咖啡-RD  | 人大复印VIP
 > #### 油猴Tampermonkey/暴力猴Violentmonkey脚本：
-> https://greasyfork.org/zh-CN/scripts/393745-svip-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E4%BC%9A%E5%91%98-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98vip-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98svip%E5%85%8D%E8%B4%B9%E8%8E%B7%E5%8F%96-%E4%BB%A3%E6%9B%BFidm-xdown-pandownload%E7%BD%91%E9%A1%B5%E7%89%88-%E9%99%84%E5%8A%A0%E5%BC%BA%E5%8A%9B%E7%BD%91%E7%9B%98%E7%9B%B4%E9%93%BE%E7%9B%B4%E6%8E%A5%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B-%E5%B1%8F%E8%94%BD%E7%BD%91%E9%A1%B5%E5%8F%B3%E9%94%AE%E7%AD%89%E6%93%8D%E4%BD%9C%E9%99%90%E5%88%B6-%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0-%E6%94%BE%E5%BF%83%E4%BD%BF%E7%94%A8
+> http://cdn.dgsldz.com/product/wildcat/plugins/tampermonkey/drive_vip.user.js
 
 ### Ⅱ 全网视频VIP解析
 #### 解析线路稳定，支持即搜即看，非常便捷，建议安装油猴脚本超级方便
