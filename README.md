@@ -82,10 +82,11 @@ http://avip.fun/music?utm_source=github
 [《谷歌Chrome浏览器怎样安装Tampermonkey插件？》](https://jingyan.baidu.com/article/d169e186f1c3f1036611d8f8.html)
 
 ### Ⅸ 反馈联系：
+Gmail邮箱：  
+wuxingsanren2008#gmail.com（#改为@）  
 WeChat微信：sanren1800  
 ![image](https://cdn.dgsldz.com/product/wildcat/images/qrcode/wechat_no1_wxid_lcrezxrnanre22.jpg)
-Gmail邮箱：
-wuxingsanren2008#gmail.com（#改为@）
+
 
 ### Ⅹ 浏览器支持
 <p>
