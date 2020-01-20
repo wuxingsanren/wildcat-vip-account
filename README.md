@@ -23,7 +23,7 @@
  `王盼`  | 看书  | 百度网盘SVIP超级会员
  `寻累`  | 听音乐  | 迅雷SVIP超级会员
  `有枯`  | 看电影  | 优酷VIP会员 → [下载VIP登录器(安卓版0118已发布)](http://avip.fun/youku)
- `臂力臂力`  | 弹钢琴  | 哔哩哔哩VIP大会员 → [下载VIP登录器](http://avip.fun/bilibili)
+ `臂力臂力`  | 弹钢琴  | 哔哩哔哩VIP大会员 → [下载VIP登录器(新版本0120已发布)](http://avip.fun/bilibili)
  `闻苦`  | 健身  | 百度文库VIP会员
  `评过ID`  | 跑步  | Apple ID（海外）
  `田燕茶`  | 学英语  | 天眼查VIP会员
