@@ -80,7 +80,7 @@ http://avip.fun/music?utm_source=github
 ![image](https://cdn.dgsldz.com/product/wildcat/images/zanzhu_qrcode_258x258.png)
 
 ### Ⅷ 帮助：
-[《GugeApps谷歌应用商店-或许是CN最佳下Chrome插件站》](https://www.gugeapps.net/)
+[《GugeApps谷歌应用商店-或许是CN最佳下Chrome插件站》](https://www.gugeapps.net/)  
 [《谷歌Chrome浏览器怎样安装Tampermonkey插件？》](https://jingyan.baidu.com/article/d169e186f1c3f1036611d8f8.html)
 
 ### Ⅸ 反馈联系：
