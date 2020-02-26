@@ -87,7 +87,7 @@ http://avip.fun/music?utm_source=github
 Gmail邮箱：  
 wuxingsanren2008#gmail.com（#改为@）  
 WeChat微信：sanren1800，请备注：野猫VIP  
-![image](https://cdn.dgsldz.com/product/wildcat/images/qrcode/wechat_no1_wxid_lcrezxrnanre22.jpg)
+![image](https://cdn.dgsldz.com/product/wildcat/images/qrcode/wechat_no1_wxid_lcrezxrnanre22.jpg?s=1582685411)
 
 
 ### Ⅹ 浏览器支持
