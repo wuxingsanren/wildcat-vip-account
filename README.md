@@ -24,7 +24,7 @@
  `寻累`  | 听音乐  | 迅雷SVIP超级会员 → [下载VIP登录器(新版本0224已发布)](http://avip.fun/xunlei)
  `哎其一`  | 看电影-IQY  | 爱奇艺VIP会员 → [下载VIP登录器(电脑版0131已发布)](http://avip.fun/iqiyi)
  `有枯`  | 看电影  | 优酷VIP会员 → [下载VIP登录器(安卓版0118已发布)](http://avip.fun/youku)
- `臂力臂力`  | 弹钢琴  | 哔哩哔哩VIP大会员 → [下载VIP登录器(新版本0228已发布)](http://avip.fun/bilibili)
+ `臂力臂力`  | 弹钢琴  | 哔哩哔哩VIP大会员 → [下载VIP登录器(新版本0309已发布)](http://avip.fun/bilibili)
  `闻苦`  | 健身  | 百度文库VIP会员
  `评过ID`  | 跑步  | Apple ID（海外）
  `田燕茶`  | 学英语  | 天眼查VIP会员 → [下载VIP登录器(电脑版0201已发布)](http://avip.fun/tianyancha)
