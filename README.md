@@ -21,7 +21,7 @@
 谐音菜单/名称  | 打卡类型  | 对应VIP
  ---- | -----  | -----  
  `王盼`  | 看书  | 百度网盘SVIP超级会员
- `寻累`  | 听音乐  | 迅雷SVIP超级会员 → [下载VIP登录器(新版本0310已发布)](http://avip.fun/xunlei)
+ `寻累`  | 听音乐  | 迅雷SVIP超级会员 → [下载VIP登录器(新版本0420已发布)](http://avip.fun/xunlei)
  `哎其一`  | 看电影-IQY  | 爱奇艺VIP会员 → [下载VIP登录器(新版本0415已发布)](http://avip.fun/iqiyi)
  `有枯`  | 看电影  | 优酷VIP会员 → [下载VIP登录器(新版本0401已发布/安卓版0118已发布)](http://avip.fun/youku)
  `臂力臂力`  | 弹钢琴  | 哔哩哔哩VIP大会员 → [下载VIP登录器(新版本0414已发布)](http://avip.fun/bilibili)
