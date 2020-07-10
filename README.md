@@ -7,7 +7,7 @@
 # 野猫VIP〔yemao.vip〕  
 
 [各大网站VIP帐号](#Ⅰ-各大网站VIP帐号) | [全网视频VIP解析](#Ⅱ-全网视频VIP解析) | [百度文库VIP下载](#Ⅲ-百度文库VIP下载) | [图库素材VIP下载](#Ⅳ-图库素材VIP下载) | [学术论文免费下载](#Ⅴ-学术论文免费下载) | [全网音乐MP3免费听及下载](#Ⅵ-全网音乐mp3免费听及下载) | [赞助与支持](#Ⅶ-赞助散人) | [帮助](#Ⅷ-帮助)  
-***1秒记住野猫网址，从此不迷路：永久域名：[yemao.vip](http://yemao.vip)；备用短网址：[git.io/yemao](https://git.io/yemao) 或 [git.io/52vip](https://git.io/52vip)，预计7月10日左右发布全新官网系统，敬请期待！***  
+***1秒记住野猫网址，从此不迷路：永久域名：[yemao.vip](http://yemao.vip)；备用短网址：[git.io/yemao](https://git.io/yemao) 或 [git.io/52vip](https://git.io/52vip)，2020年7月10日10点全新官网正式上线，欢迎围观！***  
 ![image](https://img.shields.io/badge/build-passing-brightgreen)
 ![image](https://img.shields.io/badge/license-MIT-blue)
 ![image](https://img.shields.io/badge/stars-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen)  
