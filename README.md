@@ -6,7 +6,7 @@
 
 # 野猫VIP〔yemao.vip〕  
 
-[各大网站VIP帐号](#Ⅰ-各大网站VIP帐号) | [全网视频VIP解析](#Ⅱ-全网视频VIP解析) | [百度文库VIP下载](#Ⅲ-百度文库VIP下载) | [图库素材VIP下载](#Ⅳ-图库素材VIP下载) | [学术论文免费下载](#Ⅴ-学术论文免费下载) | [全网音乐MP3免费听及下载](#Ⅵ-全网音乐mp3免费听及下载) | [赞助与支持](#Ⅶ-赞助散人) | [帮助](#Ⅷ-帮助)  
+[各大网站VIP帐号](#Ⅰ-各大网站VIP帐号) | [全网视频VIP解析](#Ⅱ-全网视频VIP解析) | [百度文库VIP下载](#Ⅲ-百度文库VIP下载) | [素材图库VIP下载](#Ⅳ-素材图库VIP下载) | [学术论文免费下载](#Ⅴ-学术论文免费下载) | [全网音乐MP3免费听及下载](#Ⅵ-全网音乐mp3免费听及下载) | [赞助与支持](#Ⅶ-赞助散人) | [帮助](#Ⅷ-帮助)  
 ***1秒记住野猫网址，从此不迷路：永久域名：[yemao.vip](http://yemao.vip)；备用短网址：[git.io/yemao](https://git.io/yemao) 或 [git.io/52vip](https://git.io/52vip)，2020年7月10日10点全新官网正式上线！***  
 ![image](https://img.shields.io/badge/build-passing-brightgreen)
 ![image](https://img.shields.io/badge/license-MIT-blue)
@@ -28,7 +28,7 @@
  `闻苦`  | 健身  | 百度文库VIP会员
  `评过ID`  | 跑步  | Apple ID（海外）
  `田燕茶`  | 学英语  | 天眼查VIP会员 → [下载VIP登录器(桌面版0327已发布)](http://avip.fun/tianyancha)
- `苏彩`  | ★详见具体素材图库平台[↓3个]  | 图库素材VIP → [新版本0818已发布](http://yemao.vip/sucai)
+ `苏彩`  | ★详见具体素材图库平台[↓3个]  | 素材图库VIP → [新版本0818已发布](http://yemao.vip/sucai)
  `芊土`  | 画画-QT  | 千图网VIP
  `苞土`  | 画画  | 包图网VIP
  `社土`  | 摄影  | 摄图网VIP
@@ -58,8 +58,8 @@ http://avip.fun/doc?utm_source=github
 > #### 油猴Tampermonkey/暴力猴Violentmonkey脚本：
 > http://cdn.dgsldz.com/product/wildcat/plugins/tampermonkey/doc_vip.user.js
 
-### Ⅳ 图库素材VIP下载  
-#### 支持的平台：千图网VIP、千库网VIP、包图网VIP、摄图网VIP、昵图网VIP、90设计VIP、觅元素VIP、我图网VIP、稻壳儿VIP、17素材VIP、熊猫办公VIP、92素材VIP、演界网VIP、彼岸图VIP、绘艺素材VIP、图品汇VIP、觅知网VIP、六图网VIP、全图网VIP等，第一个版本暂只支持包图网+摄图网2网通用  
+### Ⅳ 素材图库VIP下载  
+#### 支持的平台：千图网VIP、千库网VIP、包图网VIP、摄图网VIP、昵图网VIP、90设计VIP、觅元素VIP、我图网VIP、稻壳儿VIP、17素材VIP、熊猫办公VIP、92素材VIP、演界网VIP、彼岸图VIP、绘艺素材VIP、图品汇VIP、觅知网VIP、六图网VIP、全图网VIP等，新版本已经支持千图网+包图网+摄图网多网通用  
 http://pic.avip.fun?utm_source=github
 > #### 油猴Tampermonkey/暴力猴Violentmonkey脚本：
 > http://cdn.dgsldz.com/product/wildcat/plugins/tampermonkey/pic_vip.user.js
