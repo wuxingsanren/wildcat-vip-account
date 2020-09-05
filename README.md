@@ -27,7 +27,7 @@
  `臂力臂力`  | 弹钢琴  | 哔哩哔哩VIP大会员 → [下载VIP登录器(新版本0816已发布)](http://avip.fun/bilibili)
  `闻苦`  | 健身  | 百度文库VIP会员 → [新版本0825已发布](http://yemao.vip/wenku)
  `评过ID`  | 跑步  | Apple ID（海外）
- `田燕茶`  | 学英语  | 天眼查VIP会员 → [下载VIP登录器(新版本0904已发布)](http://avip.fun/tianyancha)
+ `田燕茶`  | 学英语  | 天眼查VIP会员 → [下载VIP登录器(新版本0904已发布)](http://yemao.vip/tianyancha)
  `苏彩`  | ★详见具体素材图库平台[↓3个]  | 素材图库VIP → [新版本0818已发布](http://yemao.vip/sucai)
  `芊土`  | 画画-QT  | 千图网VIP
  `苞土`  | 画画  | 包图网VIP
