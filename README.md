@@ -22,6 +22,8 @@
  ---- | -----  | -----  
  `王盼`  | 看书  | 百度网盘SVIP超级会员 → [下载VIP验证码接收器(新版本0613已发布)](http://avip.fun/baiduwangpan)
  `寻累`  | 听音乐  | 迅雷SVIP超级会员 → [下载VIP登录器(新版本0420已发布)](http://avip.fun/xunlei)
+ `银月`  | ★详见具体音乐平台[↓1个]  | 音乐VIP
+ `网抑云`  | 听音乐-WYY  | 网易云音乐黑胶VIP → [新版本0918已发布](http://yemao.vip/yunyinyue)
  `哎其一`  | 看电影-IQY  | 爱奇艺VIP会员 → [下载VIP登录器(新版本0415已发布)](http://avip.fun/iqiyi)
  `有枯`  | 看电影  | 优酷VIP会员 → [下载VIP登录器(新版本0401已发布/安卓版0118已发布)](http://avip.fun/youku)
  `臂力臂力`  | 弹钢琴  | 哔哩哔哩VIP大会员 → [下载VIP登录器(新版本0816已发布)](http://avip.fun/bilibili)
