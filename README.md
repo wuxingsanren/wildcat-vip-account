@@ -27,7 +27,10 @@
  `哎其一`  | 看电影-IQY  | 爱奇艺VIP会员 → [下载VIP登录器(新版本0415已发布)](http://avip.fun/iqiyi)
  `有枯`  | 看电影  | 优酷VIP会员 → [下载VIP登录器(新版本0401已发布/安卓版0118已发布)](http://yemao.vip/youku)
  `臂力臂力`  | 弹钢琴  | 哔哩哔哩VIP大会员 → [下载VIP登录器(新版本0816已发布)](http://yemao.vip/bilibili)
+ `文档文库`  | ★详见具体文档文库平台[↓3个]  | 文档文库API
  `闻苦`  | 健身  | 百度文库VIP会员 → [新版本0825已发布](http://yemao.vip/wenku)
+ `WPS`  | 健身-WPS  | WPS超级会员 → [新版本1124已发布](http://yemao.vip/wps)
+ `稻壳`  | 健身-DK  | 稻壳VIP会员 → [新版本1124已发布](http://yemao.vip/daoke)
  `评过ID`  | 跑步  | Apple ID（海外）
  `田燕茶`  | 学英语  | 天眼查VIP会员 → [下载VIP登录器(新版本0904已发布)](http://yemao.vip/tianyancha)
  `苏彩`  | ★详见具体素材图库平台[↓3个]  | 素材图库VIP → [新版本0818已发布](http://yemao.vip/sucai)
