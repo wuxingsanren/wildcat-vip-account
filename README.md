@@ -24,7 +24,7 @@
  `寻累`  | 听音乐  | 迅雷SVIP超级会员 → [下载VIP登录器(新版本0420已发布)](http://yemao.vip/xunlei)
  `银月`  | ★详见具体音乐平台[↓1个]  | 音乐VIP
  `网抑云`  | 听音乐-WYY  | 网易云音乐黑胶VIP → [新版本0918已发布](http://yemao.vip/yunyinyue)
- `哎其一`  | 看电影-IQY  | 爱奇艺VIP会员 → [下载VIP登录器(新版本0415已发布)](http://avip.fun/iqiyi)
+ `哎其一`  | 看电影-IQY  | 爱奇艺VIP会员 → [下载VIP登录器(新版本0415已发布)](http://yemao.vip/iqiyi)
  `有枯`  | 看电影  | 优酷VIP会员 → [下载VIP登录器(新版本0401已发布/安卓版0118已发布)](http://yemao.vip/youku)
  `臂力臂力`  | 弹钢琴  | 哔哩哔哩VIP大会员 → [下载VIP登录器(新版本0816已发布)](http://yemao.vip/bilibili)
  `文档文库`  | ★详见具体文档文库平台[↓3个]  | 文档文库API
@@ -38,7 +38,7 @@
  `苞土`  | 画画  | 包图网VIP
  `社土`  | 摄影  | 摄图网VIP
  `学塾轮闻`  | ★详见具体学术论文平台[↓9个]  | 学术论文VIP → [新版本1027已发布](http://yemao.vip/xueshu)
- `织网`  | 喝咖啡-ZW  | 中国知网VIP → [下载VIP登录器(桌面版0427已发布)](http://avip.fun/cnki)
+ `织网`  | 喝咖啡-ZW  | 中国知网VIP → [下载VIP登录器(桌面版0427已发布)](http://yemao.vip/xueshu?p=zhiwang)
  `望芳`  | 喝咖啡-WF  | 万方数据VIP
  `围捕`  | 喝咖啡-WP  | 维普资讯VIP
  `独绣`  | 喝咖啡-DX  | 读秀资源VIP
