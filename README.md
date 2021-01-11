@@ -47,7 +47,7 @@
  `隆元`  | 喝咖啡-LY  | 龙源期刊VIP
  `波坎`  | 喝咖啡-BK  | 博看杂志VIP
  `仁达`  | 喝咖啡-RD  | 人大复印VIP
- `开放能力`  | ★详见具体开放能力平台[↓1个]  | 开放能力API
+ `开放能力`  | ★详见具体开放能力平台[↓2个]  | 开放能力API
  `QQ拦截`  | QQ域名拦截检测  | [QQ域名拦截检测API](http://yemao.vip/open/qq_jiance)
  `微信拦截`  | 微信域名拦截检测  | [微信域名拦截检测API](http://yemao.vip/open/weixin_jiance)
 > #### 油猴Tampermonkey/暴力猴Violentmonkey脚本：
