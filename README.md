@@ -33,10 +33,11 @@
  `稻壳`  | 健身-DK  | 稻壳VIP会员 → [新版本1124已发布](http://yemao.vip/daoke)
  `评过ID`  | 跑步  | Apple ID（海外）
  `田燕茶`  | 学英语  | 天眼查VIP会员 → [下载VIP登录器(新版本0904已发布)](http://yemao.vip/tianyancha)
- `苏彩`  | ★详见具体素材图库平台[↓3个]  | 素材图库VIP → [新版本0818已发布](http://yemao.vip/sucai)
+ `苏彩`  | ★详见具体素材/资源平台[↓4个]  | 素材图库VIP → [新版本0818已发布](http://yemao.vip/sucai)
  `芊土`  | 画画-QT  | 千图网VIP
  `苞土`  | 画画  | 包图网VIP
  `社土`  | 摄影  | 摄图网VIP
+ `潮水东落`  | 画画-CSDN  | CSDN下载VIP → [新版本0108已发布](http://yemao.vip/csdn)
  `学塾轮闻`  | ★详见具体学术论文平台[↓9个]  | 学术论文VIP → [新版本1027已发布](http://yemao.vip/xueshu)
  `织网`  | 喝咖啡-ZW  | 中国知网VIP → [下载VIP登录器(桌面版0427已发布)](http://yemao.vip/xueshu?p=zhiwang)
  `望芳`  | 喝咖啡-WF  | 万方数据VIP
