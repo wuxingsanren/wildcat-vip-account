@@ -22,6 +22,9 @@
  ---- | -----  | -----  
  `王盼`  | 看书  | 百度网盘SVIP超级会员 → [下载VIP验证码接收器(新版本0613已发布)](http://yemao.vip/wangpan)
  `寻累`  | 听音乐  | 迅雷SVIP超级会员 → [下载VIP登录器(新版本0420已发布)](http://yemao.vip/xunlei)
+ `歪麦`  | ★详见具体外卖平台[↓2个]  | 美食外卖VIP
+ `鹅乐嚰`  | 美食-ELM  | 饿了么SVIP → [新版本0121已发布](http://yemao.vip/eleme)
+ `没湍歪麦`  | 美食-MTWM  | 美团外卖会员&红包 → [新版本0125已发布](http://yemao.vip/waimai)
  `银月`  | ★详见具体音乐平台[↓2个]  | 音乐VIP
  `扣扣银月`  | 听音乐-QQYY  | QQ音乐VIP绿钻豪华版 → [新版本0113已发布](http://yemao.vip/qqyinyue)
  `网抑云`  | 听音乐-WYY  | 网易云音乐黑胶VIP → [新版本0918已发布](http://yemao.vip/yunyinyue)
