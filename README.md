@@ -29,6 +29,9 @@
  `银月`  | ★详见具体音乐平台[↓2个]  | 音乐VIP
  `扣扣银月`  | 听音乐-QQYY  | QQ音乐VIP绿钻豪华版 → [新版本0113已发布](http://yemao.vip/qqyinyue)
  `网抑云`  | 听音乐-WYY  | 网易云音乐黑胶VIP → [新版本0918已发布](http://yemao.vip/yunyinyue)
+ `洗马腊鸭`  | 听音乐-XMLY  | 喜马拉雅VIP → [新版本0927已发布](http://yemao.vip/ximalaya)
+ `月独`  | ★详见具体阅读平台[↓1个]  | 阅读VIP
+ `范灯独树`  | 看书-FDDS  | 樊登读书会VIP → [新版本0202已发布](http://yemao.vip/dushu)
  `哎其一`  | 看电影-IQY  | 爱奇艺VIP会员 → [下载VIP登录器(新版本0415已发布)](http://yemao.vip/iqiyi)
  `疼寻诗品`  | 看电影-TXSP  | 腾讯视频VIP会员 → [新版本0112已发布](http://yemao.vip/qqtv)
  `有枯`  | 看电影  | 优酷VIP会员 → [下载VIP登录器(新版本0401已发布/安卓版0118已发布)](http://yemao.vip/youku)
