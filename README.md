@@ -16,7 +16,7 @@
 
 ### Ⅰ 各大网站VIP帐号
 #### 注：小程序版本已挂，现提供微信公众号〔五行散人〕，在菜单“真香.壹”及“真香.贰”，具体参见以下表格 ↓↓↓
-![image](https://cdn.dgsldz.com/product/wildcat/images/qrcode/wemp_sanyuanzhenren.jpg)
+![image](https://cdn.dgsldz.com/product/wildcat/images/qrcode/wemp_wuxingsanren2.jpg)
 
 谐音菜单/名称  | 打卡类型  | 对应VIP
  ---- | -----  | -----  
