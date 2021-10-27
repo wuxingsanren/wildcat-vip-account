@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# 野猫VIP〔[yemao.in](http://yemao.in?utm_source=github)〕  
+# 野猫〔[yemao.in](http://yemao.in?utm_source=github)〕  
 
 [各大网站VIP帐号](#Ⅰ-各大网站VIP帐号) | [全网视频VIP解析](#Ⅱ-全网视频VIP解析) | [百度文库VIP下载](#Ⅲ-百度文库VIP下载) | [素材图库VIP下载](#Ⅳ-素材图库VIP下载) | [学术论文免费下载](#Ⅴ-学术论文免费下载) | [全网音乐MP3免费听及下载](#Ⅵ-全网音乐mp3免费听及下载) | [赞助与支持](#Ⅶ-赞助散人) | [帮助](#Ⅷ-帮助)  
 ***1秒钟记住野猫网址，从此不迷路：启用新域名：[yemao.in](http://yemao.in)；备用短网址：[git.io/yemao](https://git.io/yemao) 或 [git.io/52vip](https://git.io/52vip)，欢迎推荐给亲朋好友哦！***  
@@ -106,7 +106,7 @@ http://avip.fun/music?utm_source=github
 ### Ⅸ 反馈联系：
 Gmail邮箱：  
 wuxingsanren2008#gmail.com（#改为@）  
-WeChat微信：sanren1800，请备注：野猫VIP  
+WeChat微信：sanren1800，请备注：野猫  
 ![image](https://cdn.dgsldz.com/product/wildcat/images/qrcode/wechat_no1_wxid_lcrezxrnanre22.jpg?s=1582685411)
 
 
