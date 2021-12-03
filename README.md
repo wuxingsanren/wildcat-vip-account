@@ -107,7 +107,7 @@ http://avip.fun/music?utm_source=github
 
 ### Ⅸ 反馈联系：
 Gmail邮箱：  
-[wuxingsanren2008@gmail.com](mailto:wuxingsanren2008@gmail.co)
+[wuxingsanren2008@gmail.com](mailto:wuxingsanren2008@gmail.com)
 WeChat微信：sanren1800，请备注：野猫  
 ![image](https://cdn.dgsldz.com/product/wildcat/images/qrcode/wechat_no1_wxid_lcrezxrnanre22.jpg?s=1582685411)
 
