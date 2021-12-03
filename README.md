@@ -1,8 +1,8 @@
-<p align="center">
+<div align="center">
   <a href="javascript:;">
     <img src="http://cdn.dgsldz.com/product/wildcat/images/logo_v3_20200109.png" alt="野猫VIP" width="588px" style="max-width:100%;" />
   </a>
-</p>
+
 
 # 野猫〔[yemao.in](http://yemao.in?utm_source=github)〕  
 
@@ -11,6 +11,8 @@
 ![image](https://img.shields.io/badge/build-passing-brightgreen)
 ![image](https://img.shields.io/badge/license-MIT-blue)
 ![image](https://img.shields.io/badge/stars-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen)  
+  
+</div>
 
 ---
 
@@ -105,7 +107,7 @@ http://avip.fun/music?utm_source=github
 
 ### Ⅸ 反馈联系：
 Gmail邮箱：  
-wuxingsanren2008#gmail.com（#改为@）  
+[wuxingsanren2008@gmail.com](mailto:wuxingsanren2008@gmail.co)
 WeChat微信：sanren1800，请备注：野猫  
 ![image](https://cdn.dgsldz.com/product/wildcat/images/qrcode/wechat_no1_wxid_lcrezxrnanre22.jpg?s=1582685411)
 
@@ -120,24 +122,4 @@ WeChat微信：sanren1800，请备注：野猫
 </p>
 
 ### Ⅺ License
-MIT
-
-Copyright (c) 2019 五行散人
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+遵循 MIT 许可证。详情请参阅[ LICENSE ](./LICENSE)
