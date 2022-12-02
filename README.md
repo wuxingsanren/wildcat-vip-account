@@ -4,10 +4,10 @@
   </a>
 </p>
 
-# 野猫〔[yemao.in](http://yemao.in?utm_source=github)〕  
+# 野猫〔[yemao.one](http://yemao.one?utm_source=github)〕  
 
 [各大网站VIP帐号](#Ⅰ-各大网站VIP帐号) | [全网视频VIP解析](#Ⅱ-全网视频VIP解析) | [百度文库VIP下载](#Ⅲ-百度文库VIP下载) | [素材图库VIP下载](#Ⅳ-素材图库VIP下载) | [学术论文免费下载](#Ⅴ-学术论文免费下载) | [全网音乐MP3免费听及下载](#Ⅵ-全网音乐mp3免费听及下载) | [赞助与支持](#Ⅶ-赞助散人) | [帮助](#Ⅷ-帮助)  
-***1秒钟记住野猫网址，从此不迷路：启用新域名：[yemao.in](http://yemao.in)；备用短网址：[git.io/yemao](https://git.io/yemao) 或 [git.io/52vip](https://git.io/52vip)，欢迎推荐给亲朋好友！***  
+***1秒钟记住野猫网址，从此不迷路：启用新域名：[yemao.one](http://yemao.one)；备用短网址：[git.io/yemao](https://git.io/yemao) 或 [git.io/52vip](https://git.io/52vip)，欢迎推荐给亲朋好友！***  
 ![image](https://img.shields.io/badge/build-passing-brightgreen)
 ![image](https://img.shields.io/badge/license-MIT-blue)
 ![image](https://img.shields.io/badge/stars-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen)  
@@ -20,36 +20,36 @@
 
 谐音菜单/名称  | 打卡类型  | 对应VIP
  ---- | -----  | -----  
- `王盼`  | 看书  | 百度网盘SVIP超级会员 → [下载VIP验证码接收器(新版本0613已发布)](http://yemao.in/wangpan)
- `寻累`  | 听音乐  | 迅雷SVIP超级会员 → [下载VIP登录器(新版本0420已发布)](http://yemao.in/xunlei)
- `花飞重制`  | 看书-HFCZ  | 手机话费充值 → [新版本0129已发布](http://yemao.in/huafei)
+ `王盼`  | 看书  | 百度网盘SVIP超级会员 → [下载VIP验证码接收器(新版本0613已发布)](http://yemao.one/wangpan)
+ `寻累`  | 听音乐  | 迅雷SVIP超级会员 → [下载VIP登录器(新版本0420已发布)](http://yemao.one/xunlei)
+ `花飞重制`  | 看书-HFCZ  | 手机话费充值 → [新版本0129已发布](http://yemao.one/huafei)
  `美事`  | ★详见具体美食平台[↓3个]  | 美食外卖VIP
- `巴望蚕`  | 美食-BWC  | 霸王餐免费吃VIP → [新版本1011已发布](http://yemao.in/bawangcan)
- `鹅乐嚰`  | 美食-ELM  | 饿了么SVIP → [新版本0121已发布](http://yemao.in/eleme)
- `没湍歪麦`  | 美食-MTWM  | 美团外卖会员&红包 → [新版本0125已发布](http://yemao.in/waimai)
+ `巴望蚕`  | 美食-BWC  | 霸王餐免费吃VIP → [新版本1011已发布](http://yemao.one/bawangcan)
+ `鹅乐嚰`  | 美食-ELM  | 饿了么SVIP → [新版本0121已发布](http://yemao.one/eleme)
+ `没湍歪麦`  | 美食-MTWM  | 美团外卖会员&红包 → [新版本0125已发布](http://yemao.one/waimai)
  `银月`  | ★详见具体音乐平台[↓2个]  | 音乐VIP
- `扣扣银月`  | 听音乐-QQYY  | QQ音乐VIP绿钻豪华版 → [新版本0113已发布](http://yemao.in/qqyinyue)
- `网抑云`  | 听音乐-WYY  | 网易云音乐黑胶VIP → [新版本0918已发布](http://yemao.in/yunyinyue)
- `洗马腊鸭`  | 听音乐-XMLY  | 喜马拉雅VIP → [新版本0927已发布](http://yemao.in/ximalaya)
+ `扣扣银月`  | 听音乐-QQYY  | QQ音乐VIP绿钻豪华版 → [新版本0113已发布](http://yemao.one/qqyinyue)
+ `网抑云`  | 听音乐-WYY  | 网易云音乐黑胶VIP → [新版本0918已发布](http://yemao.one/yunyinyue)
+ `洗马腊鸭`  | 听音乐-XMLY  | 喜马拉雅VIP → [新版本0927已发布](http://yemao.one/ximalaya)
  `月独`  | ★详见具体阅读平台[↓1个]  | 阅读VIP
- `范灯独树`  | 看书-FDDS  | 樊登读书会VIP → [新版本0202已发布](http://yemao.in/dushu)
- `哎其一`  | 看电影-IQY  | 爱奇艺VIP会员 → [下载VIP登录器(新版本0415已发布)](http://yemao.in/iqiyi)
- `疼寻诗品`  | 看电影-TXSP  | 腾讯视频VIP会员 → [新版本0112已发布](http://yemao.in/qqtv)
- `有枯`  | 看电影  | 优酷VIP会员 → [下载VIP登录器(新版本0401已发布/安卓版0118已发布)](http://yemao.in/youku)
- `臂力臂力`  | 弹钢琴  | 哔哩哔哩VIP大会员 → [下载VIP登录器(新版本0816已发布)](http://yemao.in/bilibili)
+ `范灯独树`  | 看书-FDDS  | 樊登读书会VIP → [新版本0202已发布](http://yemao.one/dushu)
+ `哎其一`  | 看电影-IQY  | 爱奇艺VIP会员 → [下载VIP登录器(新版本0415已发布)](http://yemao.one/iqiyi)
+ `疼寻诗品`  | 看电影-TXSP  | 腾讯视频VIP会员 → [新版本0112已发布](http://yemao.one/qqtv)
+ `有枯`  | 看电影  | 优酷VIP会员 → [下载VIP登录器(新版本0401已发布/安卓版0118已发布)](http://yemao.one/youku)
+ `臂力臂力`  | 弹钢琴  | 哔哩哔哩VIP大会员 → [下载VIP登录器(新版本0816已发布)](http://yemao.one/bilibili)
  `文档文库`  | ★详见具体文档文库平台[↓3个]  | 文档文库API
- `闻苦`  | 健身  | 百度文库VIP会员 → [新版本0825已发布](http://yemao.in/wenku)
- `WPS`  | 健身-WPS  | WPS超级会员 → [新版本1124已发布](http://yemao.in/wps)
- `稻壳`  | 健身-DK  | 稻壳VIP会员 → [新版本1124已发布](http://yemao.in/daoke)
+ `闻苦`  | 健身  | 百度文库VIP会员 → [新版本0825已发布](http://yemao.one/wenku)
+ `WPS`  | 健身-WPS  | WPS超级会员 → [新版本1124已发布](http://yemao.one/wps)
+ `稻壳`  | 健身-DK  | 稻壳VIP会员 → [新版本1124已发布](http://yemao.one/daoke)
  `评过ID`  | 跑步  | Apple ID（海外）
- `田燕茶`  | 学英语  | 天眼查VIP会员 → [下载VIP登录器(新版本0904已发布)](http://yemao.in/tianyancha)
- `苏彩`  | ★详见具体素材/资源平台[↓4个]  | 素材图库VIP → [新版本0818已发布](http://yemao.in/sucai)
+ `田燕茶`  | 学英语  | 天眼查VIP会员 → [下载VIP登录器(新版本0904已发布)](http://yemao.one/tianyancha)
+ `苏彩`  | ★详见具体素材/资源平台[↓4个]  | 素材图库VIP → [新版本0818已发布](http://yemao.one/sucai)
  `芊土`  | 画画-QT  | 千图网VIP
  `苞土`  | 画画  | 包图网VIP
  `社土`  | 摄影  | 摄图网VIP
- `潮水东落`  | 画画-CSDN  | CSDN下载VIP → [新版本0108已发布](http://yemao.in/csdn)
- `学塾轮闻`  | ★详见具体学术论文平台[↓9个]  | 学术论文VIP → [新版本1027已发布](http://yemao.in/xueshu)
- `织网`  | 喝咖啡-ZW  | 中国知网VIP → [下载VIP登录器(桌面版0427已发布)](http://yemao.in/xueshu?p=zhiwang)
+ `潮水东落`  | 画画-CSDN  | CSDN下载VIP → [新版本0108已发布](http://yemao.one/csdn)
+ `学塾轮闻`  | ★详见具体学术论文平台[↓9个]  | 学术论文VIP → [新版本1027已发布](http://yemao.one/xueshu)
+ `织网`  | 喝咖啡-ZW  | 中国知网VIP → [下载VIP登录器(桌面版0427已发布)](http://yemao.one/xueshu?p=zhiwang)
  `望芳`  | 喝咖啡-WF  | 万方数据VIP
  `围捕`  | 喝咖啡-WP  | 维普资讯VIP
  `独绣`  | 喝咖啡-DX  | 读秀资源VIP
@@ -59,8 +59,8 @@
  `波坎`  | 喝咖啡-BK  | 博看杂志VIP
  `仁达`  | 喝咖啡-RD  | 人大复印VIP
  `开放能力`  | ★详见具体开放能力平台[↓2个]  | 开放能力API
- `QQ拦截`  | QQ域名拦截检测  | [QQ域名拦截检测API](http://yemao.in/open/qq_jiance)
- `微信拦截`  | 微信域名拦截检测  | [微信域名拦截检测API](http://yemao.in/open/weixin_jiance)
+ `QQ拦截`  | QQ域名拦截检测  | [QQ域名拦截检测API](http://yemao.one/open/qq_jiance)
+ `微信拦截`  | 微信域名拦截检测  | [微信域名拦截检测API](http://yemao.one/open/weixin_jiance)
 > #### 油猴Tampermonkey/暴力猴Violentmonkey脚本：
 > http://cdn.dgsldz.com/product/wildcat/plugins/tampermonkey/drive_vip.user.js
 
@@ -73,13 +73,13 @@ http://avip.fun/tv?utm_source=github
 ### Ⅲ 百度文库VIP下载
 #### 注：2019.11.20已经恢复  
 ~~由于遭受攻击（影响到某些付费下载文档站的利益），目前维护中，可以到公众号获取“备用通道+帐密”的方式进行下载，不受影响~~  
-http://yemao.in/wenku?utm_source=github
+http://yemao.one/wenku?utm_source=github
 > #### 油猴Tampermonkey/暴力猴Violentmonkey脚本：
 > http://cdn.dgsldz.com/product/wildcat/plugins/tampermonkey/doc_vip.user.js
 
 ### Ⅳ 素材图库VIP下载  
 #### 支持的平台：千图网VIP、千库网VIP、包图网VIP、摄图网VIP、昵图网VIP、90设计VIP、觅元素VIP、我图网VIP、稻壳儿VIP、17素材VIP、熊猫办公VIP、92素材VIP、演界网VIP、彼岸图VIP、绘艺素材VIP、图品汇VIP、觅知网VIP、六图网VIP、全图网VIP等，新版本已经支持千图网+包图网+摄图网多网通用  
-http://yemao.in/sucai?utm_source=github
+http://yemao.one/sucai?utm_source=github
 > #### 油猴Tampermonkey/暴力猴Violentmonkey脚本：
 > http://cdn.dgsldz.com/product/wildcat/plugins/tampermonkey/pic_vip.user.js
 
