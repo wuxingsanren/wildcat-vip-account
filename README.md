@@ -97,7 +97,7 @@ http://avip.fun/music?utm_source=github
 
 ### Ⅶ 赞助散人：
 支持散人，让此项目能长久地做下去，我会铭记你的功德！  
-![image](https://cdn.dgsldz.com/product/wildcat/images/zanzhu_qrcode_258x258.png?s=1584950462)
+![image](https://cdn.dgsldz.com/product/wildcat/images/zanzhu_qrcode_258x258.png?s=1584950462)  
 爱发电：[https://afdian.net/a/wildcat](https://afdian.net/a/wildcat)
 
 ### Ⅷ 帮助：
