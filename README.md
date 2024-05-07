@@ -119,7 +119,10 @@ WeChat微信：sanren1800，请备注：野猫
 <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64" />
 </p>
 
-### Ⅺ License
+### Ⅺ Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=wuxingsanren/wildcat-vip-account&type=Date)](https://star-history.com/#wuxingsanren/wildcat-vip-account&Date)
+
+### Ⅻ License
 MIT
 
 Copyright (c) 2019 五行散人
