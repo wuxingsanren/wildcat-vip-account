@@ -1,6 +1,6 @@
 <p align="center">
   <a href="javascript:;">
-    <img src="http://cdn.dgsldz.com/product/wildcat/images/logo_v3_20200109.png" alt="野猫VIP" width="588px" style="max-width:100%;" />
+    <img src="https://cdn.jsdelivr.net/gh/wuxingsanren/wildcat-vip-account@master/images/logo_v3_20200109.png" alt="野猫VIP" width="588px" style="max-width:100%;" />
   </a>
 </p>
 
@@ -15,8 +15,8 @@
 ---
 
 ### Ⅰ 各大网站VIP帐号
-#### 注：小程序版本已挂，现提供微信公众号〔五行散人〕，在菜单“真香.壹”及“真香.贰”，具体参见以下表格 ↓↓↓
-![image](https://cdn.dgsldz.com/product/wildcat/images/qrcode/wemp_wuxingsanren2.jpg)
+#### 注：小程序版本已挂，现提供微信公众号〔尼克叔叔〕，在菜单“真香.壹”及“真香.贰”，具体参见以下表格 ↓↓↓
+![image](https://cdn.jsdelivr.net/gh/wuxingsanren/wildcat-vip-account@master/images/wemp_qrcode_nikeshushu.jpg)
 
 谐音菜单/名称  | 打卡类型  | 对应VIP
  ---- | -----  | -----  
@@ -125,7 +125,7 @@ WeChat微信：sanren1800，请备注：野猫
 ### Ⅻ License
 MIT
 
-Copyright (c) 2019 五行散人
+Copyright (c) 2019 Wuxingsanren
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
