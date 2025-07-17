@@ -1,10 +1,10 @@
 <p align="center">
   <a href="javascript:;">
-    <img src="https://cdn.jsdelivr.net/gh/wuxingsanren/wildcat-vip-account@master/images/logo_128x128.png" alt="野猫VIP" width="128px" style="max-width:100%;" />
+    <img src="https://cdn.jsdelivr.net/gh/wuxingsanren/wildcat-vip-account@master/images/logo_128x128.png" alt="野猫VIP" width="96px" style="max-width:100%;" />
   </a>
 </p>
 
-# 野猫〔[yemao.one](http://yemao.one?utm_source=github)〕  
+## 野猫〔[yemao.one](http://yemao.one?utm_source=github)〕  
 
 [各大网站VIP帐号](#Ⅰ-各大网站VIP帐号) | [全网视频VIP解析](#Ⅱ-全网视频VIP解析) | [百度文库VIP下载](#Ⅲ-百度文库VIP下载) | [素材图库VIP下载](#Ⅳ-素材图库VIP下载) | [学术论文免费下载](#Ⅴ-学术论文免费下载) | [全网音乐MP3免费听及下载](#Ⅵ-全网音乐mp3免费听及下载) | [赞助与支持](#Ⅶ-赞助散人) | [帮助](#Ⅷ-帮助)  
 ***1秒钟记住野猫网址，从此不迷路：启用新域名：[yemao.one](http://yemao.one)；备用短网址：[git.io/yemao](https://git.io/yemao) 或 [git.io/52vip](https://git.io/52vip)，欢迎推荐给亲朋好友！***  
