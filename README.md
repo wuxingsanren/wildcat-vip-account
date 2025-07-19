@@ -1,6 +1,6 @@
 <p align="center">
   <a href="javascript:;">
-    <img src="https://cdn.jsdelivr.net/gh/wuxingsanren/wildcat-vip-account@master/images/logo_128x128.png" alt="野猫VIP" width="96px" style="max-width:100%;" />
+    <img src="https://cdn.jsdelivr.net/gh/wuxingsanren/wildcat-vip-account@master/images/logo_v4_20250719.png" alt="野猫VIP" width="96px" style="max-width:100%;" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 
 ### Ⅰ 各大网站VIP帐号
 #### 注：小程序版本已挂，现提供微信公众号〔尼克叔叔〕，在菜单“真香.壹”及“真香.贰”，具体参见以下表格 ↓↓↓
-![image](https://cdn.jsdelivr.net/gh/wuxingsanren/wildcat-vip-account@master/images/wemp_qrcode_nikeshushu.jpg)
+<img src="https://cdn.jsdelivr.net/gh/wuxingsanren/wildcat-vip-account@master/images/wemp_qrcode_nikeshushu.jpg" width="160" />
 
 谐音菜单/名称  | 打卡类型  | 对应VIP
  ---- | -----  | -----  
@@ -99,7 +99,7 @@ http://avip.fun/music?utm_source=github
 
 ### Ⅶ 赞助散人：
 支持散人，让此项目能长久地做下去，我会铭记你的功德！  
-![image](https://cdn.dgsldz.com/product/wildcat/images/zanzhu_qrcode_258x258.png?s=1584950462)  
+<img src="https://cdn.dgsldz.com/product/wildcat/images/zanzhu_qrcode_258x258.png?s=1752899983" width="224" />
 
 ### Ⅷ 帮助：
 [《GugeApps谷歌应用商店-或许是CN最佳下Chrome插件站》](https://www.gugeapps.net/)  
