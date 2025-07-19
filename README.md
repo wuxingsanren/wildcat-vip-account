@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="javascript:;">
+  <a href="http://yemao.one?utm_source=github" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/wuxingsanren/wildcat-vip-account@master/images/logo_v4_20250719.png" alt="野猫VIP" width="96px" style="max-width:100%;" />
   </a>
 </p>
@@ -19,9 +19,11 @@
 ### Ⅰ 各大网站VIP帐号
 #### 注：小程序版本已挂，现提供微信公众号〔尼克叔叔〕，在菜单“真香.壹”及“真香.贰”，具体参见以下表格 ↓↓↓
 <div align="left">
-  <kbd>
-    <img src="https://cdn.jsdelivr.net/gh/wuxingsanren/wildcat-vip-account@master/images/wemp_qrcode_nikeshushu.jpg" width="160" style="padding-bottom:10px;" />
-  </kbd>
+  <a href="http://yemao.one?utm_source=github" target="_blank">
+    <kbd>
+      <img src="https://cdn.jsdelivr.net/gh/wuxingsanren/wildcat-vip-account@master/images/wemp_qrcode_nikeshushu.jpg" width="160" style="padding-bottom:10px;" />
+    </kbd>
+  </a>
 </div>
 &nbsp;
      
