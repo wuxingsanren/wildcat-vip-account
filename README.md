@@ -18,10 +18,13 @@
 
 ### Ⅰ 各大网站VIP帐号
 #### 注：小程序版本已挂，现提供微信公众号〔尼克叔叔〕，在菜单“真香.壹”及“真香.贰”，具体参见以下表格 ↓↓↓
-<kbd>
-  <img src="https://cdn.jsdelivr.net/gh/wuxingsanren/wildcat-vip-account@master/images/wemp_qrcode_nikeshushu.jpg" width="160" />
-</kbd>
-
+<div align="left">
+  <kbd>
+    <img src="https://cdn.jsdelivr.net/gh/wuxingsanren/wildcat-vip-account@master/images/wemp_qrcode_nikeshushu.jpg" width="160" style="padding-bottom:10px;" />
+  </kbd>
+</div>
+&nbsp;
+     
 谐音菜单/名称  | 打卡类型  | 对应VIP
  ---- | -----  | -----  
  `王盼`  | 看书  | 百度网盘SVIP超级会员 → [下载VIP验证码接收器(新版本0613已发布)](http://yemao.one/wangpan)
